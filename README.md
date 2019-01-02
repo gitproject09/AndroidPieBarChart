@@ -1,4 +1,3 @@
-=====================
 Android Pie-Bar Chart
 =====================
 A simple Pie chart & Bar chart Sample.
